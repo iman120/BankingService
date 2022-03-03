@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vovauyjpZEzXkeC75o5vunDBCzZYoxz5G9PrlyPQdQ50luqXL9xEqn488GnFEN4RCXk0rKYHsBc+HIImirqT6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ImanG\\OneDrive\\Dokumente\\SoftwareEngineering\\2.Semester\\SFR\\UE1\\MoneyLaunderingService\\MoneyLaunderingService\\MoneyLaunderingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ImanG\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\ImanG\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\ImanG\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
